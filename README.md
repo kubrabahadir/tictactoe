@@ -39,6 +39,9 @@
 3. Oyuncular, sırasıyla 1'den 9'a kadar olan pozisyonları girerek "X" veya "O" simgelerini yerleştirir.
 4. Bir oyuncu ardışık üç sembolü yatay, dikey veya çapraz sıraya dizdiğinde oyun biter. Eğer ızgara dolarsa ve kimse kazanamazsa oyun berabere sonuçlanır.
 
+![image](https://github.com/user-attachments/assets/202ac569-ee17-4448-b89f-8baaa585f561)
+
+
 ---
 
 ## Tasarım Kalıpları

@@ -40,6 +40,8 @@
 4. Bir oyuncu ardışık üç sembolü yatay, dikey veya çapraz sıraya dizdiğinde oyun biter. Eğer ızgara dolarsa ve kimse kazanamazsa oyun berabere sonuçlanır.
 
 ![image](https://github.com/user-attachments/assets/202ac569-ee17-4448-b89f-8baaa585f561)
+![image](https://github.com/user-attachments/assets/b3864306-c457-431a-a029-366d377bf65b)
+
 
 
 ---
